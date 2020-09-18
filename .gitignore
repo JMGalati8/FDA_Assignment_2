@@ -131,3 +131,4 @@ dmypy.json
 # Other directly related to assignment
 .xlsx
 .pdf
+.docx
